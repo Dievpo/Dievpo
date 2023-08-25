@@ -1,7 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNrbjZtOWIzcWtrc3NidzE1bGExeTBlcXJrcjBhZWhzZHJyMXZnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/33PMXr72xOqBdOUzTO/giphy.gif" width="300"/>
+</div>
+
+<div id="header" align="center">
+<h1>
+  Привет!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!--
 **Dievpo/Dievpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -16,12 +25,21 @@ Here are some ideas to get you started:
 -->
 
 
-## 🙋 Привет! Меня зовут Диана Попова! Я Junior Data Scientist!
+## Меня зовут Диана Попова! Я Junior Data Scientist!
 
 Телефон: **+79137800464**  
-**[Telegram](https://t.me/dievpo)**
+<div id="badges" align="center">
+  <a href="https://t.me/dievpo">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 
-**[Мое портфолио](https://github.com/Dievpo/Yandex_Praktikum)**
+
+<div id="badges" align="center">
+  <a href="https://github.com/Dievpo/Yandex_Praktikum">
+    <img src="https://img.shields.io/badge/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE-black?style=for-the-badge&logo=Github&logoColor=white"/>
+  </a>
+
+</div>
 
 ### 🟢 Стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=Matplotlib&logoColor=orange) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=Seaborn&logoColor=orange) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=SQL&logoColor=orange) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-green?style=for-the-badge&logo=PyTorch&logoColor=orange) ![Keras](https://img.shields.io/badge/keras-red?style=for-the-badge&logo=keras&logoColor=white)
