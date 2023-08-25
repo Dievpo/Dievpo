@@ -28,18 +28,12 @@ Here are some ideas to get you started:
 ## Меня зовут Диана Попова! Я Junior Data Scientist!
 
 Телефон: **+79137800464**  
+
 <div id="badges" align="center">
   <a href="https://t.me/dievpo">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/> <img src="https://img.shields.io/badge/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE-black?style=for-the-badge&logo=Github&logoColor=white"/>
   </a>
 
-
-<div id="badges" align="center">
-  <a href="https://github.com/Dievpo/Yandex_Praktikum">
-    <img src="https://img.shields.io/badge/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE-black?style=for-the-badge&logo=Github&logoColor=white"/>
-  </a>
-
-</div>
 
 <div id="badges" align="left">
   
