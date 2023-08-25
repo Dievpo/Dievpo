@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Меня зовут Диана Попова! Я Junior Data Scientist!
+## Меня зовут Диана Попова! Я Data Scientist!
 
 Телефон: **+79137800464**  
 
