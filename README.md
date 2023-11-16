@@ -40,6 +40,12 @@ Here are some ideas to get you started:
 ### 🟢 Стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=Matplotlib&logoColor=orange) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=Seaborn&logoColor=orange) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=SQL&logoColor=orange) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-green?style=for-the-badge&logo=PyTorch&logoColor=orange) ![Keras](https://img.shields.io/badge/keras-red?style=for-the-badge&logo=keras&logoColor=white)
 
+### 📄 Сертификат Data Scientist:
+[rus](https://github.com/Dievpo/Dievpo/blob/main/Yandex.Practicum-DataScience(rus).pdf) / [eng](https://github.com/Dievpo/Dievpo/blob/main/Yandex.Practicum-DataScience(eng).pdf)
+
+### 🏆 Хакатоны:
+[Лента х Яндекс Практикум](https://github.com/Danspers/Danspers/blob/main/Hackathon_Lenta_x_Yandex_Practicum.pdf)
+
 ### 👩‍💼 Коротко обо мне:
 - Моя главная область интересов - Data Science.
 - Ранее я работала инженером проектировщиком вентиляции и кондиционирования, что научило меня быстро адаптироваться к меняющимся условиям.
