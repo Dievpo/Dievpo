@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [rus](https://github.com/Dievpo/Dievpo/blob/main/Yandex.Practicum-DataScience(rus).pdf) / [eng](https://github.com/Dievpo/Dievpo/blob/main/Yandex.Practicum-DataScience(eng).pdf)
 
 ### 🏆 Хакатоны:
-[Лента х Яндекс Практикум](https://github.com/Danspers/Danspers/blob/main/Hackathon_Lenta_x_Yandex_Practicum.pdf)
+[Лента х Яндекс Практикум](https://github.com/Dievpo/Dievpo/blob/main/Hackathon_Lenta_x_Yandex_Practicum.pdf)
 
 ### 👩‍💼 Коротко обо мне:
 - Моя главная область интересов - Data Science.
